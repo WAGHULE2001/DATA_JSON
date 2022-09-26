@@ -1,0 +1,43 @@
+[
+    {
+        "topstrip_id":"1",
+        "category":"sale",
+        "description":"men's-sale",
+        "brand":"nike"
+    },
+
+    {
+        "topstrip_id":"2",
+        "category":"sale",
+        "description":"women's-sale",
+        "brand":"nike"
+    },
+
+    {
+        "topstrip_id":"3",
+        "category":"sale",
+        "description":"kid's-sale",
+        "brand":"nike"
+    },
+
+    {
+        "topstrip_id":"4",
+        "category":"customise",
+        "description":"by sport",
+        "brand":"nike"
+    },
+
+    {
+        "topstrip_id":"5",
+        "category":"customise",
+        "description":"icon",
+        "brand":"nike"
+    },
+
+    {
+        "topstrip_id":"6",
+        "category":"customise",
+        "description":"featured",
+        "brand":"nike"
+    },
+]

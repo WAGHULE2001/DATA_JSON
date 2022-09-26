@@ -1,0 +1,31 @@
+[
+    {
+      "product_id": "1",
+      "price": "$250",
+      "product_name": "nike joyride campaign",
+      "item": "shoes",
+      "brand":"nike",
+      "image":"https://i.ibb.co/Bst8TBm/Nike-Joyride-Campaign.png"
+    },
+
+    {
+        "product_id": "2",
+        "price": "$360",
+        "product_name": "nike air jordon 1",
+        "item": "shoes",
+        "brand":"nike",
+        "image":"https://i.ibb.co/JBbj1ND/air-jordon-1.jpg"
+    },
+  
+
+    {
+        "product_id": "3",
+        "price": "$500",
+        "product_name": "nike air max",
+        "item": "shoes",
+        "brand":"nike",
+        "image":"https://i.ibb.co/6tTW2r5/Nike-Air-Max.png"
+    }
+  
+
+]

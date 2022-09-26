@@ -1,0 +1,36 @@
+db.carousel_content([
+
+    {
+     "carousel_content_id": "1",
+     "image_id": "1",
+     "price": "$150.99",
+     "image": "https://i.ibb.co/jM7Ph76/nike-banner1.jpg"
+    },
+
+
+    {
+        "carousel_content_id": "2",
+        "image_id": "2",
+        "price":"$199.99",
+        "image": "https://i.ibb.co/rk10RRx/nike-banner2.png"
+    },
+
+
+    {
+        "carousel_content_id": "3",
+        "image_id": "3",
+        "price":"$249.99",
+        "image": "https://i.ibb.co/VLq7g38/nike-banner4.jpg"
+    },
+
+
+    {
+        "carousel_content_id": "4",
+        "image_id": "4",
+        "price": "$349.99",
+        "image": "https://i.ibb.co/gJtPB9z/nikebanner0.jpg"
+    },
+])
+
+
+
